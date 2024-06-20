@@ -1,3 +1,5 @@
 # Hey there :wave:
 
-My name is Oliver and I'm a student based in Edinburgh, Scotland.
+I am an undergraduate student going into my second year at the University of Edinburgh, studying Computer Science (BSc). In particular, I am interested in the use and application of mathematical concepts in computer programs. In addition I have a passion for creating high-quality educational resources to teach others about mathematics and computer science.
+
+Check out my website: https://oliversoeser.com/
