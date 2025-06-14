@@ -1,7 +1,7 @@
 # Hey there :wave:
 
-I am a second-year undergraduate student at the University of Edinburgh, studying Computer Science and Mathematics (BSc Hons). In particular, I am interested in the use and application of mathematical concepts to computer programs. In addition, I have a passion for teaching mathematics, computer science, and more! 
+I am an undergrad going into my third year at the University of Edinburgh, studying Computer Science and Mathematics. My main interests are in applying rigorous mathematical proof methods to computer programs. In addition, I have a passion for teaching mathematics and computer science!
 
-I am currently looking for internships in the summer of 2025. Find my CV [here](https://www.oliversoeser.com/pdf/cv.pdf).
+Currently, I am a Scientific Intern in the [Sammler Group](https://ist.ac.at/en/research/sammler-group/) at the Institute of Science and Technology Austria, working on higher-order concurrent separation logic in Lean.
 
 Check out my website: https://oliversoeser.com/
