@@ -4,4 +4,3 @@ I am an undergrad going into my third year at the University of Edinburgh, study
 
 Currently, I am a Scientific Intern in the [Sammler Group](https://ist.ac.at/en/research/sammler-group/) at the Institute of Science and Technology Austria, working on higher-order concurrent separation logic in Lean.
 
-Check out my website: https://oliversoeser.com/
